@@ -1,2 +1,2 @@
 # KN_KickOauth
-Oauth authenticator for Kick.com
+A Kricom Network Project
